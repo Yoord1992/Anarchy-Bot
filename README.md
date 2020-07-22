@@ -21,7 +21,7 @@ Easy Use Anarchy Bot on Telegram Groups
  <p>
 <b>How To Use Anarchy Bot Source </b>
 
-1- Run Anarchy Service composer install
+1- Run Anarchy Service Composer Install
 
 ```php
 composer create-project anarchyservice/anarchy-bot
