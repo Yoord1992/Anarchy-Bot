@@ -27,8 +27,7 @@ Easy Use Anarchy Bot on Telegram Groups
 composer create-project anarchyservice/anarchy-bot
 ```
 
-      <p>
-        <br>
+     
 
 <b>Library :</b> [Anarchy Library ](https://github.com/Anarchy-Service/Anarchy-Lib)
 
