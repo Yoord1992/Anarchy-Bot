@@ -20,6 +20,9 @@ Easy Use Anarchy Bot on Telegram Groups
 <b>How To Use Anarchy Bot Source </b>
 
 - 
+```php
+composer create-project anarchyservice/anarchy-bot
+```
 
 <b>Library :</b> [Anarchy Library ](https://github.com/Anarchy-Service/Anarchy-Lib)
 
