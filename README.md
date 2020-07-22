@@ -13,10 +13,11 @@
  
 Easy Use Anarchy Bot on Telegram Groups
  <p>
+  <br>
 <b>How To Use Anarchy Bot on Groups </b>
 
 - Just Add [@AnarchyService_Bot](https://telegram.me/AnarchyService_Bot) On Your Group :)
-
+<br>
  <p>
 <b>How To Use Anarchy Bot Source </b>
 
@@ -31,8 +32,10 @@ composer create-project anarchyservice/anarchy-bot
   <p>
 4- Select an environment by clicking the environment name
     <p>
+      <br>
 5- On the Environment page, click Deploy
       <p>
+        <br>
 
 <b>Library :</b> [Anarchy Library ](https://github.com/Anarchy-Service/Anarchy-Lib)
 
