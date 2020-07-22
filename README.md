@@ -21,18 +21,12 @@ Easy Use Anarchy Bot on Telegram Groups
  <p>
 <b>How To Use Anarchy Bot Source </b>
 
-1- Run Anarchy Service Composer Install
+- Run Anarchy Service Composer Install
 
 ```php
 composer create-project anarchyservice/anarchy-bot
 ```
-2- Commit the composer.lock file to your git repository
-<p>
-3- In Engine Yard Cloud, click Tools > Dashboard
-  <p>
-4- Select an environment by clicking the environment name
-    <p>
-5- On the Environment page, click Deploy
+
       <p>
         <br>
 
