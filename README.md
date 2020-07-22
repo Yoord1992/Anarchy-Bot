@@ -32,7 +32,6 @@ composer create-project anarchyservice/anarchy-bot
   <p>
 4- Select an environment by clicking the environment name
     <p>
-      <br>
 5- On the Environment page, click Deploy
       <p>
         <br>
