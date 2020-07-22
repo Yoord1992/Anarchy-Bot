@@ -12,11 +12,12 @@
  [![Code Intelligence](https://scrutinizer-ci.com/g/Anarchy-Service/Anarchy-Bot/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/g/Anarchy-Service/Anarchy-Bot/?branch=master)
  
 Easy Use Anarchy Bot on Telegram Groups
-
+ <p>
 <b>How To Use Anarchy Bot on Groups </b>
 
 - Just Add [@AnarchyService_Bot](https://telegram.me/AnarchyService_Bot) On Your Group :)
 
+ <p>
 <b>How To Use Anarchy Bot Source </b>
 
 1- Run Anarchy Service composer install
