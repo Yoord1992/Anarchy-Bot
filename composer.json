@@ -1,0 +1,19 @@
+{
+  "name": "anarchyservice/anarchy-bot",
+  "description": "PHP bot Telegram Groups manager",
+  "type": "project",
+  "license": "AGPL-3.0-or-later",
+  "homepage": "https://anarchyservice.XYZ",
+  "keywords": ["telegram", "bot", "api", "oop", "PHP", "full", "project", "php7", "manager"],
+  "require": {
+    "php": ">=7.4.0",
+    "anarchyservice/anarchy-lib":"dev-master"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "AnarchyService\\": "Classes/"
+    }
+  }
+}
