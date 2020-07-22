@@ -28,8 +28,8 @@ composer create-project anarchyservice/anarchy-bot
 ```
 
      
-<p>
-<b>Library :</b> [Anarchy Library ](https://github.com/Anarchy-Service/Anarchy-Lib)
+<br>
+<b>Library :</b> [Anarchy Library](https://telegram.me/Anarchy-Service/Anarchy-Lib)
 
 <b>Telegram :</b> [@AnarchyService_Bot](https://telegram.me/AnarchyService_Bot)
 
