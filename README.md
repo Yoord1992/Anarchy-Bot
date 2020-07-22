@@ -1,39 +1,25 @@
-<h1 align="center">
-     
+<h1 align="center">    
   <img src="http://s13.picofile.com/file/8403670468/1.png">
    <br>
-   
 </h1>
   
-# Anarchy Group Manager Bot V2
- [![GitHub license](https://img.shields.io/github/license/persepolisdm/persepolis.svg)](https://github.com/Yoord1992/MyConfig/blob/master/LICENSE)  [![Twitter Follow](https://img.shields.io/twitter/follow/persepolisdm.svg?style=social&label=Follow)](https://twitter.com/yoord1992)
- <p>
- <p>
+# Anarchy Group Manager Bot V2 Pre-Alpha
+ [![API Version](https://img.shields.io/badge/Bot%20API-4.9%20%28June%202020%29-32a2da.svg)](https://core.telegram.org/bots/api#june-4-2020)
+ [![GitHub license](https://img.shields.io/github/license/persepolisdm/persepolis.svg)](https://github.com/Anarchy-Service/Anarchy-Bot/blob/master/LICENSE)
+ [![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D7.4-8892BF.svg)](https://php.net/)
+ [![Code Quality](https://scrutinizer-ci.com/g/Anarchy-Service/Anarchy-Bot/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Anarchy-Service/Anarchy-Bot/?branch=master/)
+ [![Build](https://scrutinizer-ci.com/g/Anarchy-Service/Anarchy-Bot/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Anarchy-Service/Anarchy-Bot/?branch=master)
+ [![Code Intelligence](https://scrutinizer-ci.com/g/Anarchy-Service/Anarchy-Bot/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/g/Anarchy-Service/Anarchy-Bot/?branch=master)
+ 
 Easy Use Anarchy Bot on Telegram Groups
-<p>
-  &nbsp;
 
 <b>How To Use Anarchy Bot on Groups </b>
 
-- Just Add AnarchyService_Bot On Your Group :)
+- Just Add [@AnarchyService_Bot](https://telegram.me/AnarchyService_Bot) On Your Group :)
 
-&nbsp;
-  <p>
-    <p>
-&nbsp;
-&nbsp;
-      <b>How To Use Anarchy Bot Source </b>
+<b>How To Use Anarchy Bot Source </b>
 
 - 
-<p>
 
-&nbsp;
-  <p>
-    <p>
-&nbsp;
-&nbsp;
-<p>
-<b>Telegram :</b> AnarchyService_Bot
-
-<p>
+<b>Telegram :</b> [@AnarchyService_Bot](https://telegram.me/AnarchyService_Bot) .
 
